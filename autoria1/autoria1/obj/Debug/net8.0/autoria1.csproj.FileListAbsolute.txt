@@ -1,0 +1,14 @@
+D:\autoria-pietra\autoria1\autoria1\bin\Debug\net8.0\autoria1.exe
+D:\autoria-pietra\autoria1\autoria1\bin\Debug\net8.0\autoria1.deps.json
+D:\autoria-pietra\autoria1\autoria1\bin\Debug\net8.0\autoria1.runtimeconfig.json
+D:\autoria-pietra\autoria1\autoria1\bin\Debug\net8.0\autoria1.dll
+D:\autoria-pietra\autoria1\autoria1\bin\Debug\net8.0\autoria1.pdb
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.GeneratedMSBuildEditorConfig.editorconfig
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.AssemblyInfoInputs.cache
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.AssemblyInfo.cs
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.csproj.CoreCompileInputs.cache
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.dll
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\refint\autoria1.dll
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.pdb
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\autoria1.genruntimeconfig.cache
+D:\autoria-pietra\autoria1\autoria1\obj\Debug\net8.0\ref\autoria1.dll
