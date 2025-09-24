@@ -1,0 +1,14 @@
+D:\autoria\autoria2\autoria2\bin\Debug\net8.0\autoria2.exe
+D:\autoria\autoria2\autoria2\bin\Debug\net8.0\autoria2.deps.json
+D:\autoria\autoria2\autoria2\bin\Debug\net8.0\autoria2.runtimeconfig.json
+D:\autoria\autoria2\autoria2\bin\Debug\net8.0\autoria2.dll
+D:\autoria\autoria2\autoria2\bin\Debug\net8.0\autoria2.pdb
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.GeneratedMSBuildEditorConfig.editorconfig
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.AssemblyInfoInputs.cache
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.AssemblyInfo.cs
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.csproj.CoreCompileInputs.cache
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.dll
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\refint\autoria2.dll
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.pdb
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\autoria2.genruntimeconfig.cache
+D:\autoria\autoria2\autoria2\obj\Debug\net8.0\ref\autoria2.dll
